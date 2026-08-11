@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS attempt_steps;
+DROP TABLE IF EXISTS attempts;
+DROP TABLE IF EXISTS scenarios;
