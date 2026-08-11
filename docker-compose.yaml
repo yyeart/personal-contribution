@@ -22,6 +22,7 @@ services:
       interval: 3s
       timeout: 3s
       retries: 20
+      
   postgres-migrate:
     image: migrate/migrate:v4.19.1
 

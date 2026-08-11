@@ -8,6 +8,6 @@ type UsersRepository struct {
 	pool *postgrespool.Pool
 }
 
-func NewRepository(pool *postgrespool.Pool) *UsersRepository {
+func NewUsersRepository(pool *postgrespool.Pool) *UsersRepository {
 	return &UsersRepository{pool: pool}
 }
