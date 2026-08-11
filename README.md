@@ -2,6 +2,7 @@
 
 ## Автор
 Смирнов Вячеслав [@yyeart](https://t.me/yyeart)
+Оригинальный репозиторий: [avito-antiscam-monorepo](https://github.com/34Minnesota/avito-antiscam-monorepo)
 
 ## Backend
 
